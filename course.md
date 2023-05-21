@@ -1,3 +1,7 @@
-# June Onsite
+---
+  icon: raphael:github
+---
 
-structure · agenda · schedule · speakers
+# Github Workshop
+
+Git  & Github from the Command Line

@@ -1,6 +1,3 @@
----
-  icon: raphael:github
----
-# Github Workshop
+Github Workshop
 
 Git  & Github from the Command Line
